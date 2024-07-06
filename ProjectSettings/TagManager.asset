@@ -13,14 +13,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Solid
+  - SolidOnTop
+  - SolidOnBottom
+  - SolidOnLeft
+  - SolidOnRight
+  - NonSolidTile
+  - Weapon
+  - Actor
   - 
   - 
   - 
